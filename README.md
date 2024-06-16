@@ -1,4 +1,4 @@
-# 视频分析系统：一般pc电脑就能部署了
+# 事件检测系统：一般pc电脑就能部署
 系统包含区域入侵，人员越线，流量分析，物品遗留检测等功能，持续添加中
 
 ![功能](https://github.com/yemuzi/event-detection/blob/main/demo/function.png) 
