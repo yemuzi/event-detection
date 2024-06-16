@@ -7,3 +7,6 @@
 
 **下载地址：**  [夸克网盘](https://pan.quark.cn/s/14abf5477d35) [百度网盘](https://pan.baidu.com/s/19MtSyIRwQ5dFczE1q_IfcA?pwd=b9wb )
 
+![1](https://github.com/yemuzi/event-detection/blob/main/demo/1.jpg) 
+
+![2](https://github.com/yemuzi/event-detection/blob/main/demo/2.jpg) 
